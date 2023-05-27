@@ -1,4 +1,5 @@
-### Hello Developers 👋
+# Hello Developers <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60">
+## Akshit this side, who is currently
 
 <!--
 **akkshitgupta/akkshitgupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,11 +13,12 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 📮 You can contact me on linkedIn or twitter : @akkshitgupta
 
 -->
-- 🌱 I’m currently learning about Web 3.0 and blockchain technology
-- 👯 I’m looking to collaborate on any WebDev project
-- 📮 You can contact me on linkedIn or twitter : @akkshitgupta
+- 🌱 currently learning about Web 3.0 and blockchain technology
+- 👯 looking to collaborate on a full stack WebDev project
+
 
 
 ## GitHub Activity
