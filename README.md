@@ -21,9 +21,8 @@ Here are some ideas to get you started:
 
 
 #### GitHub Streak  
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akkshitgupta&theme=swift&hide_border=true&border_radius=10&card_width=450)
 
 #### GitHub Activity
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=akkshitgupta&disable_animations=false&count_private=true&show_icons=true&theme=swift&card_width=450)
-![GitHub Activity](https://github-readme-stats.vercel.app/api/top-langs?username=akkshitgupta&layout=compact&langs_count=8&theme=swift&card_width=450)
+![GitHub Activity](https://github-readme-stats.vercel.app/api?username=akkshitgupta&disable_animations=false&count_private=true&show_icons=true&theme=swift&card_width=450&border_radius=10)
+![GitHub Activity](https://github-readme-stats.vercel.app/api/top-langs?username=akkshitgupta&layout=compact&langs_count=8&theme=swift&card_width=425&border_radius=10)
