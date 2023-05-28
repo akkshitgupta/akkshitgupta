@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 #### GitHub Activity
 ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=akkshitgupta&disable_animations=false&count_private=true&show_icons=true&theme=swift&card_width=300&border_radius=10)
-![GitHub Activity](https://github-readme-stats.vercel.app/api/top-langs?username=akkshitgupta&layout=compact&langs_count=8&theme=swift&card_width=350&border_radius=10)
+![GitHub Activity](https://github-readme-stats.vercel.app/api/top-langs?username=akkshitgupta&layout=compact&langs_count=8&theme=swift&card_width=400&border_radius=10)
