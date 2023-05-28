@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 📮 You can contact me on linkedIn or twitter : @akkshitgupta
 
 -->
-> - currently learning about Web 3.0 and blockchain technology
-> - looking to collaborate on a full stack WebDev project
-> - UX/UI and WebDev enthusiast
+ - currently learning about Web 3.0 and blockchain technology
+ - looking to collaborate on a full stack WebDev project
+ - UX/UI and WebDev enthusiast
 
 
 
@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akkshitgupta&theme=swift&hide_border=true&border_radius=10&card_width=450)
 
 #### GitHub Activity
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=akkshitgupta&disable_animations=false&count_private=true&show_icons=true&theme=swift&card_width=450&border_radius=10)
-![GitHub Activity](https://github-readme-stats.vercel.app/api/top-langs?username=akkshitgupta&layout=compact&langs_count=8&theme=swift&card_width=400&border_radius=10)
+![GitHub Activity](https://github-readme-stats.vercel.app/api?username=akkshitgupta&disable_animations=false&count_private=true&show_icons=true&theme=swift&card_width=300&border_radius=10)
+![GitHub Activity](https://github-readme-stats.vercel.app/api/top-langs?username=akkshitgupta&layout=compact&langs_count=8&theme=swift&card_width=300&border_radius=10)
