@@ -1,4 +1,4 @@
-# Hello Developers <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
+# Hello Developers <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="48">
 ### Akshit this side, who is
 
 <!--
@@ -19,12 +19,12 @@ Here are some ideas to get you started:
  - UX/UI and WebDev enthusiast
 
 
-<!-- 
+
 #### GitHub Streak  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akkshitgupta&theme=swift&hide_border=true&border_radius=10&card_width=400)
  
 #### GitHub Activity
 ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=akkshitgupta&disable_animations=false&count_private=true&show_icons=true&theme=swift&card_width=300&border_radius=10)
 ![GitHub Activity](https://github-readme-stats.vercel.app/api/top-langs?username=akkshitgupta&layout=compact&langs_count=8&theme=swift&card_width=400&border_radius=10)
- -->
+
      
