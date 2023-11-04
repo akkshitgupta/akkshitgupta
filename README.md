@@ -1,5 +1,6 @@
 # Hello Developers <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="48">
 ### Akshit this side, who is
+[![An image of @akkshitgupta's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akkshitgupta)](https://holopin.io/@akkshitgupta)
 
 <!--
 **akkshitgupta/akkshitgupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,9 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 📮 You can contact me on linkedIn or twitter : @akkshitgupta
-
--->
  - currently learning about Web 3.0 and blockchain technology
+-->
  - looking to collaborate on a full stack WebDev project
  - UX/UI and WebDev enthusiast
 
